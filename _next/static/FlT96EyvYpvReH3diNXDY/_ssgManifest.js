@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fcompose","\u002Flinear-pools","\u002Fmabeets","\u002Fpool\u002F[poolId]","\u002Fpools","\u002Frecovery-exit","\u002Fswap"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
